@@ -1,0 +1,14 @@
+{
+    "name": "Flat surface",
+    "points": [[0, 1000], [6999, 1000]],
+    "lander_state" : {
+        "x" : 3500,
+        "y" : 2500,
+        "h_speed" : 0, 
+        "v_speed" : 0,
+        "fuel" : 10000,
+        "rotate" : 0,
+        "power" : 0
+    
+    }
+}
